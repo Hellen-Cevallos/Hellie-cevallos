@@ -27,7 +27,7 @@ En el THUNDER CLIENT podemos visualizar lo siguiente las siguientes datos ya cre
 ![image](https://github.com/Hellen-Cevallos/Hellie-cevallos/assets/147775191/557abe2f-8be3-4c95-80ce-ab9b9674900a)
 
 
-![image](https://github.com/Hellen-Cevallos/Hellie-cevallos/assets/147775191/2e3676c4-bb80-49ea-8769-35e46c630fa6)
+![image](https://github.com/Hellen-Cevallos/Hellie-cevallos/assets/147775191/2e3676c4-bb80-49ea-8769-35e46c630fa6)        
 
 
 Aquí hemos creados los datos de cada uno de los libros
@@ -46,5 +46,9 @@ Control de errores en el sistema:
 
 ![image](https://github.com/Hellen-Cevallos/Hellie-cevallos/assets/147775191/5b1d3e27-de67-430e-857f-1545c44c6480)
 
+Si no existe el libro, lanzar un expcetion LibroException (GET /libros/{id_libro}). Enviar el estado NOT_FOUND con un mensaje personalizado
+Cómo se puede viauslizar  a continuar a continuación.
+
+![image](https://github.com/Hellen-Cevallos/Hellie-cevallos/assets/147775191/04c18794-d46e-4be2-a284-883dd6d32037)
 
 
